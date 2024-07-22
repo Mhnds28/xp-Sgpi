@@ -35,5 +35,3 @@ Em <code>GET/api/Transactions</code> obtenha a lista de transações de compra, 
 Em <code>GET/api/Wallets</code> obtenha a lista de carteiras com os dados dos ativos negociados em Ordens.<br>
 
 - git clone https://github.com/Mhnds28/xp-Sgpi.git
-
-> **Atenção:** Todos os endpoints estão liberados sem o uso do TOKEN para que os consumo/teste fosse feito de forma desburocratizada.
