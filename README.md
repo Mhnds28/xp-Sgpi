@@ -1,8 +1,13 @@
 # Sistema de Gestão de Portfólio de Investimentos
-Aplicação (Web-API) simula um ambiente de uma corretora para investimentos em ações.
-## Descrição
 
+## Descrição
 Projeto em (Web-Api) desenvolvido para sumular uma empresa de consultoria financeira e gerenciar portfólios de investimentos.
+
+## Tecnologias Utilizadas
+- .NET 8.0
+- Entity Framework Core
+- Swagger for API documentation
+- SQLServer dor DataBase
 
 ## Para executar
 
