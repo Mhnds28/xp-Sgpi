@@ -18,13 +18,13 @@ Projeto em (Web-Api) desenvolvido para sumular uma empresa de consultoria financ
 ## Para utilizar
 Para verificar dados já cadastrados nas tabelas de compra e venda de uma ação. vai ate o Endpoint:
 
-<b>Assets (Ativ</b><br>
+<b>Assets </b><br>
 Em <code>GET/api/Assets/assets-with-positive-value-and-valid-date</code> obtenha a lista dos ativos disponíveis para negociação. <br>
 
-<b>Customers (Clientes)</b><br>
+<b>Customers </b><br>
 Em <code>GET/api/Customers</code> obtenha a lista de clientes. <br>
 
-<b>Orders (Ordens)</b><br>
+<b>Orders </b><br>
 Com os dados de ativos e clientes:<br><br>
 Execute uma ordem de compra em <code>POST/api/Orders/buy</code>. <br>
 Execute uma ordem de venda em <code>POST/api/Orders/sell</code>. <br><br>
@@ -33,10 +33,10 @@ Consulte as ordens pendentes para processamento em <code>GET/api/Orders</code> <
 <b>Matching Engine</b><br>
 Essa chamada fará o casamento das ordens, para processar as ordens pendentes ou parciais execute em <code>/api/Orders/execute-batch</code><br>
 
-<b>Transactions (Transações)</b><br>
+<b>Transactions </b><br>
 Em <code>GET/api/Transactions</code> obtenha a lista de transações de compra, venda, depósito ou saque.<br>
 
-<b>Wallets (Carteiras)</b><br>
+<b>Wallets </b><br>
 Em <code>GET/api/Wallets</code> obtenha a lista de carteiras com os dados dos ativos negociados em Ordens.<br>
 
 - git clone https://github.com/Mhnds28/xp-Sgpi.git
