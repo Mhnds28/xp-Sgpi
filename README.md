@@ -13,7 +13,7 @@ Projeto em (Web-Api) desenvolvido para sumular uma empresa de consultoria financ
 
  Defina o projeto <b>XpCase.API</b> como principal no Visual Studio e pressione Ctrl+F5 para executar ou clique com botão direito em cima do projeto e navegue até View/View in Browser.
   <br> <br>
-  Acesse pelo navegador o endereço: <b>https://localhost:7060/swagger/index.html</b> para visualizar os endpoint da aplicação.
+  Acesse pelo navegador o endereço: <b>https://localhost:5000/swagger/index.html</b> para visualizar os endpoint da aplicação.
 
 ## Para utilizar
 Para verificar dados já cadastrados nas tabelas de compra e venda de uma ação. vai ate o Endpoint:
